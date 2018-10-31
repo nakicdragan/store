@@ -1,0 +1,38 @@
+{
+  "generator-jhipster": {
+    "applicationType": "gateway",
+    "gitCompany": "",
+    "baseName": "store",
+    "packageName": "io.github.jhipster.application",
+    "packageFolder": "io/github/jhipster/application",
+    "serverPort": 8080,
+    "serviceDiscoveryType": "eureka",
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": "true",
+    "messageBroker": "kafka",
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.5.0",
+    "jwtSecretKey": "ZmMxMjI1ZTJjMmJlYmYxN2IzMzhkN2YyNzM0YjYwMzhmOTY0YmRjMDYwYWQwYzUwYjhkNTdjNDZmYWI3N2M0YzY1N2VhOWEwMDI1NDQyMDU2ZjMxMmJmYzc3NTJmYzQ0MTBhNmIwODkwN2M2NWFmZDU1Nzk1Y2IwYTEwMzAzMjY="
+  },
+  "git-provider": "GitHub",
+  "git-company": "nakicdragan",
+  "repository-name": "store"
+}
